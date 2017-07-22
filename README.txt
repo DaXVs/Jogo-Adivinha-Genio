@@ -1,0 +1,1 @@
+A simple program in Java, where I played a game of divination with the genius, using the swing.
